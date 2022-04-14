@@ -1,0 +1,2 @@
+C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Debug\netcoreapp3.1\inventory.csprojAssemblyReference.cache
+C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Debug\netcoreapp3.1\inventory.csproj.GenerateResource.cache

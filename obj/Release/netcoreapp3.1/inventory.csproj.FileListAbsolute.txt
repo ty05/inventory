@@ -176,3 +176,4 @@ C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Re
 C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Release\netcoreapp3.1\inventory.dll
 C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Release\netcoreapp3.1\inventory.pdb
 C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Release\netcoreapp3.1\inventory.genruntimeconfig.cache
+C:\Users\v-tayana\OneDrive - Microsoft\ドキュメント\azure\inventory\obj\Release\netcoreapp3.1\inventory.csproj.GenerateResource.cache
